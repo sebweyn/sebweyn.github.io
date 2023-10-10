@@ -1,0 +1,13 @@
+author	title	year	pmid	pdf
+Lim KH*, Han Z*, Jeon HY, Kach J, Jing E, Weyn-Vanhentenryck S, Downs M, Corrionero A, Oh R, Scharner J, Venkatesh A, Ji S, Liau G, Ticho B, Nash H, Aznarez I	Antisense oligonucleotide modulation of non-productive alternative splicing upregulates gene expression	2020	32647108
+Feng H*, Bao S*, Rahman MA, Weyn-Vanhentenryck SM, Khan A, Wong J, Shah A, Flynn ED, Krainer AR, Zhang C	Modeling RNA-Binding Protein Specificity In Vivo by Precisely Registering Protein-RNA Crosslink Sites	2019	31226278
+Zagore LL, Sweet TJ, Hannigan MM, Weyn-Vanhentenryck SM, Jobava R, Hatzoglou M, Zhang C, Licatalosi DD	DAZL Regulates Germ Cell Survival through a Network of PolyA-Proximal mRNA Interactions	2018	30380414
+Ustianenko D, Chiu HS, Treiber T, Weyn-Vanhentenryck SM, Treiber N, Meister G, Sumazin P, Zhang C	LIN28 Selectively Modulates a Subclass of Let-7 MicroRNAs	2018	30029005
+Weyn-Vanhentenryck SM*, Feng H*, Ustianenko D, Duffié R, Yan Q, Jacko M, Martinez JC, Goodwin M, Zhang X, Hengst U, Lomvardas S, Swanson MS, Zhang C	Precise temporal regulation of alternative splicing during neural development	2018	29875359
+Jacko M, Weyn-Vanhentenryck SM, Smerdon JW, Yan R, Feng H, Williams DJ, Pai J, Xu K, Wichterle H, Zhang C	Rbfox Splicing Factors Promote Neuronal Maturation and Axon Initial Segment Assembly	2018	29398366
+Ustianenko D, Weyn-Vanhentenryck SM, Zhang C	Microexons: discovery, regulation, and function	2017	28188674	Ustianenko_microexons.pdf
+Shah A, Qian Y, Weyn-Vanhentenryck SM, Zhang C	CLIP Tool Kit (CTK): a flexible and robust pipeline to analyze CLIP sequencing data	2017	27797762
+Weyn-Vanhentenryck SM, Zhang C	mCarts: Genome-Wide Prediction of Clustered Sequence Motifs as Binding Sites for RNA-Binding Proteins	2016	26965268	mCarts.pdf
+Goodwin M*, Mohan A*, Batra R, Lee KY, Charizanis K, Fernández Gómez FJ, Eddarkaoui S, Sergeant N, Buée L, Kimura T, Clark HB, Dalton J, Takamura K, Weyn-Vanhentenryck SM, Zhang C, Reid T, Ranum LP, Day JW, Swanson MS	MBNL Sequestration by Toxic RNAs and RNA Misprocessing in the Myotonic Dystrophy Brain	2015	26257173
+Yan Q*, Weyn-Vanhentenryck SM*, Wu J, Sloan SA, Zhang Y, Chen K, Wu JQ, Barres BA, Zhang C	Systematic discovery of regulated and conserved alternative exons in the mammalian brain reveals NMD modulating chromatin regulators	2015	25737549
+Weyn-Vanhentenryck SM*, Mele A*, Yan Q*, Sun S, Farny N, Zhang Z, Xue C, Herre M, Silver PA, Zhang MQ, Krainer AR, Darnell RB, Zhang C	HITS-CLIP and integrative modeling define the Rbfox splicing-regulatory network linked to brain development and autism	2014	24613350

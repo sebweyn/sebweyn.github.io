@@ -1,0 +1,67 @@
+1: Lim KH, Han Z, Jeon HY, Kach J, Jing E, Weyn-Vanhentenryck S, Downs M,
+Corrionero A, Oh R, Scharner J, Venkatesh A, Ji S, Liau G, Ticho B, Nash H,
+Aznarez I. Antisense oligonucleotide modulation of non-productive alternative
+splicing upregulates gene expression. Nat Commun. 2020 Jul 9;11(1):3501. doi:
+10.1038/s41467-020-17093-9. PMID: 32647108; PMCID: PMC7347940.
+
+2: Feng H, Bao S, Rahman MA, Weyn-Vanhentenryck SM, Khan A, Wong J, Shah A,
+Flynn ED, Krainer AR, Zhang C. Modeling RNA-Binding Protein Specificity In Vivo
+by Precisely Registering Protein-RNA Crosslink Sites. Mol Cell. 2019 Jun
+20;74(6):1189-1204.e6. doi: 10.1016/j.molcel.2019.02.002. PMID: 31226278; PMCID:
+PMC6676488.
+
+3: Zagore LL, Sweet TJ, Hannigan MM, Weyn-Vanhentenryck SM, Jobava R, Hatzoglou
+M, Zhang C, Licatalosi DD. DAZL Regulates Germ Cell Survival through a Network
+of PolyA-Proximal mRNA Interactions. Cell Rep. 2018 Oct 30;25(5):1225-1240.e6.
+doi: 10.1016/j.celrep.2018.10.012. PMID: 30380414; PMCID: PMC6878787.
+
+4: Ustianenko D, Chiu HS, Treiber T, Weyn-Vanhentenryck SM, Treiber N, Meister
+G, Sumazin P, Zhang C. LIN28 Selectively Modulates a Subclass of Let-7
+MicroRNAs. Mol Cell. 2018 Jul 19;71(2):271-283.e5. doi:
+10.1016/j.molcel.2018.06.029. PMID: 30029005; PMCID: PMC6238216.
+
+5: Weyn-Vanhentenryck SM, Feng H, Ustianenko D, Duffié R, Yan Q, Jacko M,
+Martinez JC, Goodwin M, Zhang X, Hengst U, Lomvardas S, Swanson MS, Zhang C.
+Precise temporal regulation of alternative splicing during neural development.
+Nat Commun. 2018 Jun 6;9(1):2189. doi: 10.1038/s41467-018-04559-0. PMID:
+29875359; PMCID: PMC5989265.
+
+6: Jacko M, Weyn-Vanhentenryck SM, Smerdon JW, Yan R, Feng H, Williams DJ, Pai
+J, Xu K, Wichterle H, Zhang C. Rbfox Splicing Factors Promote Neuronal
+Maturation and Axon Initial Segment Assembly. Neuron. 2018 Feb
+21;97(4):853-868.e6. doi: 10.1016/j.neuron.2018.01.020. Epub 2018 Feb 1. PMID:
+29398366; PMCID: PMC5823762.
+
+7: Ustianenko D, Weyn-Vanhentenryck SM, Zhang C. Microexons: discovery,
+regulation, and function. Wiley Interdiscip Rev RNA. 2017
+Jul;8(4):10.1002/wrna.1418. doi: 10.1002/wrna.1418. Epub 2017 Feb 11. PMID:
+28188674; PMCID: PMC5863539.
+
+8: Shah A, Qian Y, Weyn-Vanhentenryck SM, Zhang C. CLIP Tool Kit (CTK): a
+flexible and robust pipeline to analyze CLIP sequencing data. Bioinformatics.
+2017 Feb 15;33(4):566-567. doi: 10.1093/bioinformatics/btw653. PMID: 27797762;
+PMCID: PMC6041811.
+
+9: Weyn-Vanhentenryck SM, Zhang C. mCarts: Genome-Wide Prediction of Clustered
+Sequence Motifs as Binding Sites for RNA-Binding Proteins. Methods Mol Biol.
+2016;1421:215-26. doi: 10.1007/978-1-4939-3591-8_17. PMID: 26965268.
+
+10: Goodwin M, Mohan A, Batra R, Lee KY, Charizanis K, Fernández Gómez FJ,
+Eddarkaoui S, Sergeant N, Buée L, Kimura T, Clark HB, Dalton J, Takamura K,
+Weyn-Vanhentenryck SM, Zhang C, Reid T, Ranum LP, Day JW, Swanson MS. MBNL
+Sequestration by Toxic RNAs and RNA Misprocessing in the Myotonic Dystrophy
+Brain. Cell Rep. 2015 Aug 18;12(7):1159-68. doi: 10.1016/j.celrep.2015.07.029.
+Epub 2015 Aug 6. PMID: 26257173; PMCID: PMC4545389.
+
+11: Yan Q, Weyn-Vanhentenryck SM, Wu J, Sloan SA, Zhang Y, Chen K, Wu JQ, Barres
+BA, Zhang C. Systematic discovery of regulated and conserved alternative exons
+in the mammalian brain reveals NMD modulating chromatin regulators. Proc Natl
+Acad Sci U S A. 2015 Mar 17;112(11):3445-50. doi: 10.1073/pnas.1502849112. Epub
+2015 Mar 3. PMID: 25737549; PMCID: PMC4371929.
+
+12: Weyn-Vanhentenryck SM, Mele A, Yan Q, Sun S, Farny N, Zhang Z, Xue C, Herre
+M, Silver PA, Zhang MQ, Krainer AR, Darnell RB, Zhang C. HITS-CLIP and
+integrative modeling define the Rbfox splicing-regulatory network linked to
+brain development and autism. Cell Rep. 2014 Mar 27;6(6):1139-1152. doi:
+10.1016/j.celrep.2014.02.005. Epub 2014 Mar 6. PMID: 24613350; PMCID:
+PMC3992522.

@@ -1,0 +1,180 @@
+
+	<tr>
+		<td>
+			<p class=title>
+				Antisense oligonucleotide modulation of non-productive alternative splicing upregulates gene expression
+			</p>
+			<p class=author>
+				Lim KH*, Han Z*, Jeon HY, Kach J, Jing E, Weyn-Vanhentenryck S, Downs M, Corrionero A, Oh R, Scharner J, Venkatesh A, Ji S, Liau G, Ticho B, Nash H, Aznarez I
+			</p>
+			<p class=metadata>
+				2020 <a href=https://pubmed.ncbi.nlm.nih.gov/32647108>[PMID 32647108]</a>
+			</p>
+			<p></p>
+		</td>
+	</tr>
+
+	<tr>
+		<td>
+			<p class=title>
+				Modeling RNA-Binding Protein Specificity In Vivo by Precisely Registering Protein-RNA Crosslink Sites
+			</p>
+			<p class=author>
+				Feng H*, Bao S*, Rahman MA, Weyn-Vanhentenryck SM, Khan A, Wong J, Shah A, Flynn ED, Krainer AR, Zhang C
+			</p>
+			<p class=metadata>
+				2019 <a href=https://pubmed.ncbi.nlm.nih.gov/31226278>[PMID 31226278]</a>
+			</p>
+			<p></p>
+		</td>
+	</tr>
+
+	<tr>
+		<td>
+			<p class=title>
+				DAZL Regulates Germ Cell Survival through a Network of PolyA-Proximal mRNA Interactions
+			</p>
+			<p class=author>
+				Zagore LL, Sweet TJ, Hannigan MM, Weyn-Vanhentenryck SM, Jobava R, Hatzoglou M, Zhang C, Licatalosi DD
+			</p>
+			<p class=metadata>
+				2018 <a href=https://pubmed.ncbi.nlm.nih.gov/30380414>[PMID 30380414]</a>
+			</p>
+			<p></p>
+		</td>
+	</tr>
+
+	<tr>
+		<td>
+			<p class=title>
+				LIN28 Selectively Modulates a Subclass of Let-7 MicroRNAs
+			</p>
+			<p class=author>
+				Ustianenko D, Chiu HS, Treiber T, Weyn-Vanhentenryck SM, Treiber N, Meister G, Sumazin P, Zhang C
+			</p>
+			<p class=metadata>
+				2018 <a href=https://pubmed.ncbi.nlm.nih.gov/30029005>[PMID 30029005]</a>
+			</p>
+			<p></p>
+		</td>
+	</tr>
+
+	<tr>
+		<td>
+			<p class=title>
+				Precise temporal regulation of alternative splicing during neural development
+			</p>
+			<p class=author>
+				Weyn-Vanhentenryck SM*, Feng H*, Ustianenko D, Duffié R, Yan Q, Jacko M, Martinez JC, Goodwin M, Zhang X, Hengst U, Lomvardas S, Swanson MS, Zhang C
+			</p>
+			<p class=metadata>
+				2018 <a href=https://pubmed.ncbi.nlm.nih.gov/29875359>[PMID 29875359]</a>
+			</p>
+			<p></p>
+		</td>
+	</tr>
+
+	<tr>
+		<td>
+			<p class=title>
+				Rbfox Splicing Factors Promote Neuronal Maturation and Axon Initial Segment Assembly
+			</p>
+			<p class=author>
+				Jacko M, Weyn-Vanhentenryck SM, Smerdon JW, Yan R, Feng H, Williams DJ, Pai J, Xu K, Wichterle H, Zhang C
+			</p>
+			<p class=metadata>
+				2018 <a href=https://pubmed.ncbi.nlm.nih.gov/29398366>[PMID 29398366]</a>
+			</p>
+			<p></p>
+		</td>
+	</tr>
+
+	<tr>
+		<td>
+			<p class=title>
+				Microexons: discovery, regulation, and function
+			</p>
+			<p class=author>
+				Ustianenko D, Weyn-Vanhentenryck SM, Zhang C
+			</p>
+			<p class=metadata>
+				2017 <a href=https://pubmed.ncbi.nlm.nih.gov/28188674>[PMID 28188674]</a> <a href=pub/Ustianenko_microexons.pdf>[PDF]</a>
+			</p>
+			<p></p>
+		</td>
+	</tr>
+
+	<tr>
+		<td>
+			<p class=title>
+				CLIP Tool Kit (CTK): a flexible and robust pipeline to analyze CLIP sequencing data
+			</p>
+			<p class=author>
+				Shah A, Qian Y, Weyn-Vanhentenryck SM, Zhang C
+			</p>
+			<p class=metadata>
+				2017 <a href=https://pubmed.ncbi.nlm.nih.gov/27797762>[PMID 27797762]</a>
+			</p>
+			<p></p>
+		</td>
+	</tr>
+
+	<tr>
+		<td>
+			<p class=title>
+				mCarts: Genome-Wide Prediction of Clustered Sequence Motifs as Binding Sites for RNA-Binding Proteins
+			</p>
+			<p class=author>
+				Weyn-Vanhentenryck SM, Zhang C
+			</p>
+			<p class=metadata>
+				2016 <a href=https://pubmed.ncbi.nlm.nih.gov/26965268>[PMID 26965268]</a> <a href=pub/mCarts.pdf>[PDF]</a>
+			</p>
+			<p></p>
+		</td>
+	</tr>
+
+	<tr>
+		<td>
+			<p class=title>
+				MBNL Sequestration by Toxic RNAs and RNA Misprocessing in the Myotonic Dystrophy Brain
+			</p>
+			<p class=author>
+				Goodwin M*, Mohan A*, Batra R, Lee KY, Charizanis K, Fernández Gómez FJ, Eddarkaoui S, Sergeant N, Buée L, Kimura T, Clark HB, Dalton J, Takamura K, Weyn-Vanhentenryck SM, Zhang C, Reid T, Ranum LP, Day JW, Swanson MS
+			</p>
+			<p class=metadata>
+				2015 <a href=https://pubmed.ncbi.nlm.nih.gov/26257173>[PMID 26257173]</a>
+			</p>
+			<p></p>
+		</td>
+	</tr>
+
+	<tr>
+		<td>
+			<p class=title>
+				Systematic discovery of regulated and conserved alternative exons in the mammalian brain reveals NMD modulating chromatin regulators
+			</p>
+			<p class=author>
+				Yan Q*, Weyn-Vanhentenryck SM*, Wu J, Sloan SA, Zhang Y, Chen K, Wu JQ, Barres BA, Zhang C
+			</p>
+			<p class=metadata>
+				2015 <a href=https://pubmed.ncbi.nlm.nih.gov/25737549>[PMID 25737549]</a>
+			</p>
+			<p></p>
+		</td>
+	</tr>
+
+	<tr>
+		<td>
+			<p class=title>
+				HITS-CLIP and integrative modeling define the Rbfox splicing-regulatory network linked to brain development and autism
+			</p>
+			<p class=author>
+				Weyn-Vanhentenryck SM*, Mele A*, Yan Q*, Sun S, Farny N, Zhang Z, Xue C, Herre M, Silver PA, Zhang MQ, Krainer AR, Darnell RB, Zhang C
+			</p>
+			<p class=metadata>
+				2014 <a href=https://pubmed.ncbi.nlm.nih.gov/24613350>[PMID 24613350]</a>
+			</p>
+			<p></p>
+		</td>
+	</tr>
