@@ -16,7 +16,19 @@ hr {
 
 a {
 	color: darkgreen;
-	font-weight: bold
+}
+
+a:hover {
+	color: green
+}
+
+a#home {
+	color: #333;
+	text-decoration: none;
+}
+
+a#home:hover {
+	color: #777
 }
 
 .main {
